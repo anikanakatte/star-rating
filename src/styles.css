@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.star-container {
+  display: flex;
+  justify-content: center;
+  /* gap: 5px; */
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.star {
+  font-size: 30px;
+}
+
+.on {
+  color: #000;
+}
+
+.off {
+  color: #ccc;
+}
