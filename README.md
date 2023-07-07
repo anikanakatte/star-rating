@@ -1,2 +1,2 @@
 # star-rating
-Created with CodeSandbox
+Star rating system using React.js
